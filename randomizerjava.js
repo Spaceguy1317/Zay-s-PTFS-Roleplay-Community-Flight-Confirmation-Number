@@ -1,5 +1,5 @@
 function generateRandomString() {
-    const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890';
+    const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
     const charactersLength = characters.length;
     let result = '';
     for (let i = 0; i < 6; i++) {
